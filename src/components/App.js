@@ -7,6 +7,7 @@ export default class App extends React.Component{
         return (
         <div>
             <h1>Hello Word</h1>
+            <h2>hello you</h2>
         </div>
         )
     }
